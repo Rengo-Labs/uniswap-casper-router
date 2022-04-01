@@ -1,4 +1,4 @@
-uniswap_core_directory = ../casperswap-core
+uniswap_core_directory = ../uniswap-casper-core
 
 uniswap_router_directory = .
 
